@@ -1,0 +1,13 @@
+{
+  "name": "mevlutyildirim.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mevlutyildirim/mevlutyildirim.github.io.git",
+  "author": "Mevlutyildirim <Mevlutyildirim@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.24.23",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
