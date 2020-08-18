@@ -5,9 +5,18 @@
   "repository": "https://github.com/Mevlutyildirim/mevlutyildirim.github.io.git",
   "author": "Mevlutyildirim <Mevlutyildirim@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "gatsby develop",
+    "serve": "gatsby serve"
+  },
   "dependencies": {
     "gatsby": "^2.24.23",
+    "normalize.css": "^8.0.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1"
+  },
+  "bugs": {
+    "url":"https://github.com/gatsbyjs/gatsby/issues"
   }
 }
