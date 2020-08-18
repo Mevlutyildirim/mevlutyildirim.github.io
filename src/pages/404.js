@@ -1,7 +1,9 @@
 import  React  from 'react';
 
-export default ErorPage = ()=>{
+const  ErorPage = ()=>{
   return(
     <div>something went wrong!</div>
   )
 }
+
+export default ErorPage;
